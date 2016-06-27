@@ -3,7 +3,7 @@
 ```css
 .clearfix:before,
 .clearfix:after {
-    content: " ",
+    content: " ";
     display: table;
 }
 .clearfix:after {
